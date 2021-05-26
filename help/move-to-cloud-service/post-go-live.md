@@ -37,4 +37,4 @@ Refer to [Accessing and Managing Logs](https://docs.adobe.com/content/help/en/ex
 
 ### Additional Support {#additional-support}
 
-If you have questions about access to Cloud Service, contact your Adobe representative or Adobe AEM CQ Support Portal.
+If you have questions about access to Cloud Service, contact your Adobe representative or [Support for Experience Cloud](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) for more details.
